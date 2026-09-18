@@ -1,0 +1,1 @@
+{"timestamp":"2026-09-18T07:55:55Z","commit_sha":"f9d959f73e8a27ecabd830329fb43573364709e3","branch":"main","ddev_version":"f9d959f73","os":"linux","arch":"amd64","docker_provider":"docker-ce","metrics":{"ddev_rebuild_s":24.8,"ddev_start_cold_s":13.8,"mutagen_settle_s":null,"drupal_install_s":24.9,"drush_install_s":17.8,"ddev_stop_s":2.5}}
